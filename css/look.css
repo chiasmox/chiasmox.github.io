@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+html {
+	
+	background-color: pink;
+	font-family: "Arial", sans-serif;
+	color: black;
+	max-width: 100%;
+	text-align: center;
+}
